@@ -1,1 +1,1 @@
-# gradient_Squad_busters
+MedBrief by Team Squad Busters - Designed with the aim of significantly reducing medical review time, MedBrief provides users with summaries of lengthy patient reports and highlights significant medical terminology. A big standout feature is Medbrief’s ability to answer questions based on an individual’s medical records.
