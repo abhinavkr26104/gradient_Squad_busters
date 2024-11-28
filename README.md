@@ -80,7 +80,7 @@ streamlit run app.py
 ---
 
 ## **Screenshots**  
-![Tool Interface](screenshot(3).png)  
+![Tool Interface](Screenshot (3).png)  
 _A clean and intuitive interface for efficient analysis._
 
 ---
