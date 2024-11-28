@@ -80,7 +80,7 @@ streamlit run app.py
 ---
 
 ## **Screenshots**  
-![Tool Interface](Screenshot (3).png)  
+![Tool Interface](gradient_Squad_Buaters_Screenshot (3).png)  
 _A clean and intuitive interface for efficient analysis._
 
 ---
